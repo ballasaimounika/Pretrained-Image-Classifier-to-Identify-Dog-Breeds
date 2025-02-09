@@ -25,7 +25,7 @@ This project is designed to identify different dog breeds from images and check 
    ```
    
 2. Navigate to the project directory:
-   ``bash
+   ```bash
    cd Pretrained-Image-Classifier-to-Identify-Dog-Breeds
    ```
 
